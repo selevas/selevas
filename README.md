@@ -4,7 +4,7 @@ Hey, my name's Benjamin! I'm a full stack developer with strong experience in Ja
 
 Several years ago I did a lot of web development for clients, but all the sites have since disappeared or changed dramatically.
 
-Most of my recent professional experience has been writing internal tools and apps for my employers. However, I'm working on developing more open source code to share my work!
+Most of my recent professional experience has been writing internal tools and apps for my employer. However, I'm working on developing more open source code to share my work!
 
 ### My plans
 
